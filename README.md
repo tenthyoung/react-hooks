@@ -1,7 +1,7 @@
 <div>
   <h1 align="center"><a href="https://epicreact.dev/hooks">🎣 React Hooks 🚀 EpicReact.Dev</a></h1>
   <strong>
-    Learn the ins and outs of React Hooks. 
+    Learn the ins and outs of React Hooks.
   </strong>
   <p>
     I will take you on a deep dive into
@@ -35,7 +35,7 @@
 ## System Requirements
 
 - [git][git] v2.13 or greater
-- [NodeJS][node] `12 || 14 || 15 || 16`
+- [NodeJS][node] `12 || 14 || 15 || 16 || 17`
 - [npm][npm] v6 or greater
 
 All of these must be available in your `PATH`. To verify things are set up
@@ -223,6 +223,11 @@ Thanks goes to these wonderful people
   </tr>
   <tr>
     <td align="center"><a href="http://pavlos.dev"><img src="https://avatars.githubusercontent.com/u/100233?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pavlos Vinieratos</b></sub></a><br /><a href="https://github.com/kentcdodds/react-hooks/commits?author=pvinis" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://mokajima.com/"><img src="https://avatars.githubusercontent.com/u/10166985?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Misaki Okajima</b></sub></a><br /><a href="https://github.com/kentcdodds/react-hooks/commits?author=mokajima" title="Code">💻</a> <a href="https://github.com/kentcdodds/react-hooks/commits?author=mokajima" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/marioleed"><img src="https://avatars.githubusercontent.com/u/1763448?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mario Sannum</b></sub></a><br /><a href="https://github.com/kentcdodds/react-hooks/commits?author=marioleed" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/jaquinocode"><img src="https://avatars.githubusercontent.com/u/28276675?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jaquinocode</b></sub></a><br /><a href="https://github.com/kentcdodds/react-hooks/issues?q=author%3Ajaquinocode" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/Insidiae"><img src="https://avatars.githubusercontent.com/u/28495550?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kobe Ruado</b></sub></a><br /><a href="https://github.com/kentcdodds/react-hooks/commits?author=Insidiae" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/prasanthlouis/"><img src="https://avatars.githubusercontent.com/u/8705429?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Prasanth Louis</b></sub></a><br /><a href="https://github.com/kentcdodds/react-hooks/commits?author=prasanthlouis" title="Documentation">📖</a></td>
   </tr>
 </table>
 

@@ -402,6 +402,52 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "mokajima",
+      "name": "Misaki Okajima",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10166985?v=4",
+      "profile": "https://mokajima.com/",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "marioleed",
+      "name": "Mario Sannum",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1763448?v=4",
+      "profile": "https://github.com/marioleed",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jaquinocode",
+      "name": "jaquinocode",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28276675?v=4",
+      "profile": "https://github.com/jaquinocode",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "Insidiae",
+      "name": "Kobe Ruado",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28495550?v=4",
+      "profile": "https://github.com/Insidiae",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "prasanthlouis",
+      "name": "Prasanth Louis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8705429?v=4",
+      "profile": "https://www.linkedin.com/in/prasanthlouis/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,

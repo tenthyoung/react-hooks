@@ -10,6 +10,10 @@ const getLocalStorageName = () => {
     console.error(err)
   }
 }
+function Greeting({initialName = ''}) {
+  // 🐨 initialize the state to the value from localStorage
+  // 💰 window.localStorage.getItem('name') ?? initialName
+  const [name, setName] = React.useState(initialName)
 
 function Greeting() {
   const [name, setName] = useState(() => getLocalStorageName() || '')
